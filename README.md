@@ -1,12 +1,26 @@
-# Base36 Encoder
-
-This crate provides a simple function to convert an integer to its string representation using a base-36 encoding scheme. It is a solution to the **Rust Challenge** from the [Rust Bytes newsletter](https://weeklyrust.substack.com/p/bevy-got-a-glow-up) of **May 04, 2025**.
-
-
-<a href="https://rust-lambda.com/" alt="The book cover of the book Crafting Lambda Functions in Rust" style="float: right; margin-left: 1em;" width="200"><img src="https://rust-lambda.com/_astro/cover-light.aCUulJ1e_10Kasa.webp"/></a>
+<a href="https://rust-lambda.com/" alt="The book cover of the book Crafting Lambda Functions in Rust" align="right"><img align="right" src="https://rust-lambda.com/_astro/cover-light.aCUulJ1e_10Kasa.webp" style="float: right; margin-left: 1em; z-index:1000" width="200"/></a>
 
 > [!TIP]
 > Do you want to learn how to write efficient and cost-effective AWS Lambda functions using Rust? Check out my book [Crafting Lambda Functions in Rust](https://rust-lambda.com/)
+>
+> 
+> 
+> 
+
+```
+   _      _
+  (<      >)
+   `O,99,O`
+  //-\__/-\\
+```
+
+
+# Base36 Encoder
+
+This crate provides a simple function to convert an integer to its string representation using a base-36 encoding scheme. It is a solution to the **Rust Challenge** from the [Rust Bytes newsletter of **May 04, 2025**](https://weeklyrust.substack.com/p/bevy-got-a-glow-up).
+
+
+
 
 ## Overview
 
