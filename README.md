@@ -65,7 +65,7 @@ fn to_base36(n: u64) -> String {
 }
 ```
 
-If you really want to use it, you can copy paste the code into your project and add it as a local dependency in your `Cargo.toml` file:
+If you really want to use `tinyb36` instead, you can copy paste the code into your project and add it as a local dependency in your `Cargo.toml` file:
 
 ```toml
 [dependencies]
