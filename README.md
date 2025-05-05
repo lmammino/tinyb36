@@ -37,13 +37,13 @@ This crate provides a simple implementation of base-36 encoding in Rust. While i
 ## Example Usage
 
 ```rust
-use base36_encoder::to_base36;
+use tinyb36::convert_to_base36;
 
 fn main() {
-    let number = 123456789;
-    let base36 = to_base36(number);
+    let number = 2147483646;
+    let base36 = convert_to_base36(number);
     println!("Base-36 representation of {} is {}", number, base36);
-    // Output: Base-36 representation of 123456789 is 21i3v9
+    // Output: Base-36 representation of 2147483646 is zik0zi
 }
 ```
 
